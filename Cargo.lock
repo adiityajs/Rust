@@ -3,6 +3,7 @@
 version = 3
 
 [[package]]
+<<<<<<< HEAD
 name = "endoflife"
 version = "0.1.0"
 dependencies = [
@@ -87,3 +88,7 @@ name = "unicode-ident"
 version = "1.0.12"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3354b9ac3fae1ff6755cb6db53683adb661634f67557942dea4facebec0fee4b"
+=======
+name = "even"
+version = "0.1.0"
+>>>>>>> 603bfc9 (Just a try)
